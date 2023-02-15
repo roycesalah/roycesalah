@@ -1,4 +1,4 @@
-### Hi, I'm Royce Salah 👋
+# Hi, I'm Royce Salah 👋
 
 ## 🔭 I’m currently working on:
 
