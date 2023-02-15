@@ -10,6 +10,7 @@
 ## 📫 How to reach me:
 
 [Linkedin](https://www.linkedin.com/in/roycesalah/)
+
 Email me @ roycesalah@gmail.com
 
 Feel free to check out my projects and work below or my [portfolio](https://roycesalah.github.io)
