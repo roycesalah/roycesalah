@@ -11,6 +11,6 @@
 
 ✉️ Email me @ roycesalah@gmail.com
 
-
-Feel free to check out my projects and work below or on my [portfolio](https://roycesalah.github.io)!
+## 🖥️ Portfolio
+Feel free to check out my projects and work below or on my [portfolio website](https://roycesalah.github.io)!
 
