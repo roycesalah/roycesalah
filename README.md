@@ -3,9 +3,8 @@
 ## 🔭 I’m currently working on:
 
 - 🖥️ Getting an internship/FT position within analytics or data science
-- 🌱 UCSD's Data Structures and Algorithms Specialization (COMPLETE)
-- 📊 Utilizing Apache Spark, Deep Learning, and Linear Regression in an analytics project
 - 📚 Pursuing a graduate degree in data science or machine learning
+- 📊 Utilizing Apache Spark and Kafka
 
 ## 📫 How to reach me:
 
