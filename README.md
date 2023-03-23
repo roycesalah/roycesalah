@@ -2,7 +2,6 @@
 
 ## 🔭 I’m currently working on:
 
-- 🖥️ Getting an internship/FT position within analytics or data science
 - 📚 Pursuing a graduate degree in data science or machine learning
 - 📊 Utilizing Apache Spark and Kafka
 
