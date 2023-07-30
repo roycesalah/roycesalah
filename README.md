@@ -2,8 +2,8 @@
 
 ## 🔭 I’m currently working on:
 
-- 📚 Pursuing a graduate degree in data science or machine learning
-- 📊 Utilizing Apache Spark and Kafka
+- 📚 MSCS @ Georgia Tech
+- 📊 Management analytics @ VHP
 
 ## 🖥️ Portfolio
 Feel free to check out my projects and work below or on my [portfolio website](https://roycesalah.github.io)!
