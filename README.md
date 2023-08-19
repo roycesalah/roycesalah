@@ -3,7 +3,6 @@
 ## 🔭 I’m currently working on:
 
 - 📚 MSCS @ Georgia Tech
-- 📊 Management analytics @ VHP
 
 ## 🖥️ Portfolio
 Feel free to check out my projects and work below or on my [portfolio website](https://roycesalah.github.io)!
